@@ -14,7 +14,7 @@
   "ad_show_sequance": "1",
   "is_add_show": "false",
   "is_native_banner_ad_show": "true",
-  "is_livemode": "false",
+  "is_livemode": "true",
   "splash_ad_type": "AppOpen",
   "ad_interval_second":"10",
   "interstitial_condition": "2",
